@@ -4,5 +4,5 @@
 library dartest;
 
 export 'src/should.dart';
-export 'src/should_bool.dart';
-export 'src/should_throw.dart';
+export 'src/bool.dart';
+export 'src/throw.dart';
